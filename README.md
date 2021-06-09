@@ -20,7 +20,7 @@ python2 XD.so
  <img src="https://github.com/MRVIVEK-CODER/XD/blob/main/Screenshot_20210608-174014.jpg" width="640" title="Menu" alt="Menu">
  
 <p align="center">
- <img src="https://github.com/MRVIVEK-CODER/XD/blob/main/Screenshot_20210608-174014.jpg" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/MRVIVEK-CODER/XD/blob/main/IMG-20210609-WA0030.jpg" width="640" title="Menu" alt="Menu">
  
   
 
