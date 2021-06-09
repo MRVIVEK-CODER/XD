@@ -19,7 +19,10 @@ python2 XD.so
 <p align="center">
  <img src="https://github.com/MRVIVEK-CODER/XD/blob/main/Screenshot_20210608-174014.jpg" width="640" title="Menu" alt="Menu">
  
+<p align="center">
+ <img src="https://github.com/MRVIVEK-CODER/XD/blob/main/Screenshot_20210608-174014.jpg" width="640" title="Menu" alt="Menu">
  
+  
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
